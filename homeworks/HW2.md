@@ -1,4 +1,4 @@
-**Task: Password Generator and Validator**
+**Task: Password change for Linux User**
 
 Your task is to develop a Python script that implements the Linux chpasswd simulation
 
