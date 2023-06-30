@@ -13,3 +13,10 @@ Your task is to develop a Python script that implements the Linux chpasswd simul
   - any other criteria you specify.
 - Change password for user
 - The program should print the results, including the username, the original or generated password, and whether the password meets the requirements.
+
+
+
+**Useful Links**
+https://www.maketecheasier.com/how-linux-stores-manages-user-passwords/
+https://www.section.io/engineering-education/how-to-execute-linux-commands-in-python/
+https://unix.stackexchange.com/questions/238180/execute-shell-commands-in-python
